@@ -1,7 +1,13 @@
 {
-  "name": "my-personal-portfolio",
+  "name": "pavankumar-techwriter-portfolio",
   "version": "0.0.0",
   "private": true,
+
+  "homepage": "https://pavan-docstudio.github.io/pavankumar-techwriter-portfolio/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavan-docstudio/pavankumar-techwriter-portfolio.git"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

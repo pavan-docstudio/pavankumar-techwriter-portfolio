@@ -2,7 +2,6 @@
   "name": "pavankumar-techwriter-portfolio",
   "version": "0.0.0",
   "private": true,
-
   "homepage": "https://pavan-docstudio.github.io/pavankumar-techwriter-portfolio/",
   "repository": {
     "type": "git",
@@ -30,7 +29,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.8.1",
-    "@docusaurus/types": "3.8.1"
+    "@docusaurus/types": "3.8.1",
+    "gh-pages": "^6.3.0"
   },
   "browserslist": {
     "production": [

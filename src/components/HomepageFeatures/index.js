@@ -7,7 +7,7 @@ const FeatureList = [
     title: 'Who am I?',
     description: (
       <>
-Hi, I'm Olga Taranukha. <br/>
+Hi, I'm Pavankumar H M. <br/>
 Technical Writer with a background in Frontend Development and Business Analysis.<br/>
 I don't just write docs. I understand how code works and what users need. With 5+ years in FinTech, IT, and FMCG, I specialize in creating clear, structured documentation for complex systems.
       </>
@@ -41,6 +41,11 @@ I don't just write docs. I understand how code works and what users need. With 5
           <li>Confluence</li>
           <li>VS Code</li>
           <li>Postman</li>
+          <li>Mkdocs</li>
+          <li>Document360</li>
+          <li>MadcapFlare</li>
+          <li>XML</li>
+          <li>DITA</li>
         </ul>
       </>
     ),
@@ -49,7 +54,7 @@ I don't just write docs. I understand how code works and what users need. With 5
     title: 'Contacts',
     description: (
       <>
-        Feel free to write me via <a href="https://www.linkedin.com/in/olgataranukha/">Linkedin</a>, <a href="mailto:o.taranukha.work@gmail.com">Email</a>, or <a href="https://t.me/OlgaTaranukha">Telegram</a>.
+        Feel free to write me via <a href="https://www.linkedin.com/in/pavankumar-hm/">Linkedin</a> or <a href="mailto:pavanhm1011@gmail.com">Email</a>.
       </>
     ),
   },

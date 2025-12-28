@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Technical writer portfolio',
+  title: 'Pavankumar – Technical Writer Portfolio',
   tagline: 'Based on Docusaurus',
   favicon: 'img/favicon.ico',
 
@@ -25,10 +25,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  url: 'https://slusimusi.github.io',
-  baseUrl: '/portfolio/', 
-  organizationName: 'slusimusi', // Usually your GitHub org/user name.
-  projectName: 'portfolio', // Usually your repo name.
+  url: 'https://pavan-docstudio.github.io',
+  baseUrl: '/pavankumar-techwriter-portfolio/', 
+  organizationName: 'pavan-docstudio', // Usually your GitHub org/user name.
+  projectName: 'pavankumar-techwriter-portfolio', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
